@@ -1,3 +1,7 @@
+prom/prometheus
+prom/prometheus:v2.44.0
+grafana/grafana
+grafana/grafana:9.5.2
 moby/buildkit
 moby/buildkit:buildx-stable-1
 tonistiigi/binfmt
