@@ -10,3 +10,5 @@ centos:latest
 centos:7.9.2009
 ubuntu:latest
 ubuntu:20.24
+rancher/server
+portainer/protainer-ce
