@@ -12,3 +12,15 @@ ubuntu:latest
 ubuntu:20.24
 rancher/server
 portainer/protainer-ce
+nextcloud
+johngong/baidunetdisk:latest
+lissy93/dashy:latest
+ljdyw/ubuntu-novnc:latest
+xhofe/alist:latest
+snowdreamtech/frps
+jc21/nginx-proxy-manager:latest
+halohub/halo:latest
+postgres
+dpage/pgadmin4
+redis
+gitlab/gitlab-ce:latest
