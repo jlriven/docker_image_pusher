@@ -1,3 +1,4 @@
+moby/buildkit
 moby/buildkit:buildx-stable-1
 tonistiigi/binfmt
 nginx
