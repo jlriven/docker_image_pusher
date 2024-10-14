@@ -14,7 +14,6 @@ ubuntu:20.04
 ubuntu:18.04
 ubuntu:24.04
 rancher/server
-portainer/protainer-ce
 nextcloud
 johngong/baidunetdisk:latest
 lissy93/dashy:latest
@@ -27,3 +26,5 @@ postgres
 dpage/pgadmin4
 redis
 gitlab/gitlab-ce:latest
+portainer/portainer-ce
+portainer/portainer-k8s-beta
