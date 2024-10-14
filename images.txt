@@ -9,7 +9,10 @@ python:latest
 centos:latest
 centos:7.9.2009
 ubuntu:latest
-ubuntu:20.24
+ubuntu:22.04
+ubuntu:20.04
+ubuntu:18.04
+ubuntu:24.04
 rancher/server
 portainer/protainer-ce
 nextcloud
