@@ -1,3 +1,5 @@
+dickhub/openwrt
+ihnic/ikuai
 makedie/fnos
 busybox
 alpine
