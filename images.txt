@@ -1,3 +1,11 @@
+ollama/ollama
+openjdk
+node
+postgres
+mysql
+docker
+jenkins/ssh-agent
+jenkins/jenkins
 python:3.10-alpine
 python:3.11-alpine
 python:3.12-alpine
