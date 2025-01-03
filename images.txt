@@ -1,3 +1,11 @@
+jupyter/scipy-notebook
+jupyter/datascience-notebook
+jupyter/minimal-notebook
+jupyter/base-notebook
+jupyter/repo2docker
+jupyterhub/jupyterhub
+bitnami/jupyterhub
+bitnami/jupyter-base-notebook
 ollama/ollama
 openjdk
 node
