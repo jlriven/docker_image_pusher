@@ -1,6 +1,11 @@
+# OpenLDAP
+osixia/openldap
+osixia/phpldapadmin
+# 监控
 prom/prometheus
 grafana/grafana-enterprise
 prom/node-exporter
+# jupyter
 jupyter/scipy-notebook
 jupyter/datascience-notebook
 jupyter/minimal-notebook
@@ -9,14 +14,18 @@ jupyter/repo2docker
 jupyterhub/jupyterhub
 bitnami/jupyterhub
 bitnami/jupyter-base-notebook
+# 大模型
 ollama/ollama
 openjdk
 node
 postgres
+# 数据库
 mysql
+# docker in docker
 docker
 jenkins/ssh-agent
 jenkins/jenkins
+# python
 python:3.10-alpine
 python:3.11-alpine
 python:3.12-alpine
@@ -62,11 +71,12 @@ lissy93/dashy:latest
 ljdyw/ubuntu-novnc:latest
 xhofe/alist:latest
 snowdreamtech/frps
+# 代理
 jc21/nginx-proxy-manager:latest
 halohub/halo:latest
-postgres
 dpage/pgadmin4
 redis
 gitlab/gitlab-ce:latest
+# 容器管理
 portainer/portainer-ce
 portainer/agent
