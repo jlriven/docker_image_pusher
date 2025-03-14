@@ -24,8 +24,9 @@ bitnami/jupyterhub
 bitnami/jupyter-base-notebook
 # 大模型
 ollama/ollama
-open-webui/pipelines:main
-open-webui/open-webui:cuda
+ghcr.io/open-webui/pipelines:main
+ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
 vllm/vllm-openai
 chromadb/chroma
 # js
