@@ -1,6 +1,16 @@
 # 看板
 wekanteam/wekan
+ghcr.io/plankanban/planka:latest
+taigaio/taiga-back:latest
+taigaio/taiga-back:latest
+rabbitmq:3.8-management-alpine
+taigaio/taiga-front:latest
+taigaio/taiga-events:latest
+rabbitmq:3.8-management-alpine
+taigaio/taiga-protected:latest
+nginx:1.19-alpine
 # 数据库
+postgres:12.3
 mongo:6
 # 仓库
 joxit/docker-registry-ui
