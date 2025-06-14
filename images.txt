@@ -11,6 +11,7 @@ taigaio/taiga-protected:latest
 nginx:1.19-alpine
 # 数据库
 postgres:12.3
+postgres:16-alpine
 mongo:6
 # 仓库
 joxit/docker-registry-ui
@@ -82,7 +83,6 @@ nginx
 # --platform=linux/amd64 xiaoyaliu/alist
 python:3.10.8
 python:latest
-centos:latest
 centos:7.9.2009
 ubuntu:latest
 ubuntu:22.04
